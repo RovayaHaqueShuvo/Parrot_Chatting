@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578610485353",
+    "project_id": "parrotchating",
+    "storage_bucket": "parrotchating.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578610485353:android:932f7edef553a8081a2af8",
+        "android_client_info": {
+          "package_name": "com.example.parrot_chating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3kcPcD-yyqwjTolJWonEqR9Xur5gJrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
